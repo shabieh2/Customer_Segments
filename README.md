@@ -1,3 +1,5 @@
 # P3_Customer_Segments
 
-Trying to see if we can see some pattern DT/KMC/PCA
+Unsupervised Learning
+
+Trying to see if we can see some clusters KMC/GMM
