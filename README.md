@@ -1,4 +1,4 @@
-# P3_Customer_Segments
+# Customer_Segments
 
 Unsupervised Learning
 
